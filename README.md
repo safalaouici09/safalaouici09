@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! I’m Safa Laouici, a Master’s student in Software Engineering at the University of Montpellier, passionate about software design and development. I’m currently seeking a six-month internship in software engineering, starting in late January 2025.<br><br>💻 Experience:<br><br>Software Engineer at 3M Zone: Collaborated with backend, frontend, design, and product teams to deliver innovative features.<br>Developed public APIs and webhooks, optimizing service integration with thorough documentation.<br>Implemented a logging strategy on Google Cloud Platform to reduce error detection time.<br>Increased code robustness by writing comprehensive unit tests and enhancing test coverage.<br>🔧 Technical Skills:<br><br>Languages: JavaScript, Java, Python, C, PHP.<br>Frameworks: Node.js, NestJS, AngularJS, Flutter, ReactJS, Laravel.<br>DevOps: Docker, Kubernetes, CI/CD, GCP, AWS.<br>Databases: MySQL, PostgreSQL, MongoDB, SQLite.<br>Software Engineering: Microservices, REST API, GraphQL, Event-Driven Architecture.<br>🎯 Soft Skills:<br><br>Autonomy, Proactivity, Effective Communication, Agile Methodologies, Project Management.<br>I’m eager to contribute to innovative projects and continue growing my skills. Let’s collaborate and build something great together! 🚀<br><br>
+Hello! I’m Safa Laouici, a Master’s student in Software Engineering at the University of Montpellier, passionate about software design and development.
+I’m currently seeking a six-month internship in software engineeringin france 
 
 
 # 💻 Tech Stack:
