@@ -1,4 +1,4 @@
-# 💫 HELLO There
+💫 Hello there
 Hello! I’m Safa Laouici, a Master’s student in Software Engineering at the University of Montpellier, passionate about software design and development.  
 I’m currently seeking a six-month internship in software engineering in France.
 
