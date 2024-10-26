@@ -1,6 +1,7 @@
 # 🌟 Safa Laouici | Building Ideas Into Code
 
-Hello! I’m **Safa Laouici**, a Master’s student in Software Engineering at the University of Montpellier. I’m passionate about crafting efficient, scalable solutions and am currently seeking a **six-month software engineering internship** in France to apply my skills and gain hands-on experience.
+Hello! I’m **Safa Laouici**,a Master’s student in Software Engineering at the University of Montpellier, passionate about software design and development.  
+I’m currently seeking a six-month internship in software engineering in France.
 
 ---
 
