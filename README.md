@@ -17,9 +17,10 @@ I’m currently seeking a six-month internship in software engineering in France
 ### ⚙️ Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ### ☁️ DevOps & Cloud
